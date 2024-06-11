@@ -1,0 +1,14 @@
+.trailer{
+    color: rgb(216, 216, 110);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    
+
+}
+.trailer:hover{
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    text-decoration: none;
+}

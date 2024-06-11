@@ -1,0 +1,22 @@
+.title{
+    color: rgb(148, 218, 185);
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.but{
+    color: rgb(26, 26, 35);
+    background-color: rgb(214, 108, 108);
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: larger;
+}
+.description{
+    color: white;
+    text-align: center;
+    font-size: medium;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
